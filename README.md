@@ -10,7 +10,7 @@ First, the user will be introduced to the home page of the application, where th
 ![Home_Page](https://github.com/niharikaaa21/GoodSkin-Wellness-App/assets/102322171/16346f37-5fd9-4d7d-b21a-ac88adeed4f8)
 
 
-Next, the user will be directed to a page where they will have to choose their skin types between 4 options give - Normal, Dry, Oily and Combination. They also have an option of returning to home page if they want.
+Next, the user will be directed to a page where they will have to choose their skin types between 4 options given - Normal, Dry, Oily and Combination. They also have an option of returning to home page if they want.
 
 ![Choosing_Skin_Type](https://github.com/niharikaaa21/GoodSkin-Wellness-App/assets/102322171/7ff0da66-8645-4ad5-8bfc-a3df10b664e2)
 
