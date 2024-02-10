@@ -11,39 +11,51 @@ https://github.com/niharikaaa21/GoodSkin-Wellness-App/assets/102322171/e049884e-
 ### Screenshots :
 
 ![Home_Page](https://github.com/niharikaaa21/GoodSkin-Wellness-App/assets/102322171/16346f37-5fd9-4d7d-b21a-ac88adeed4f8)
+
 Home page
 
 ![Choosing_Skin_Type](https://github.com/niharikaaa21/GoodSkin-Wellness-App/assets/102322171/7ff0da66-8645-4ad5-8bfc-a3df10b664e2)
+
 Choosing Skin Type
 
 ![Routine_for_Skin_Type](https://github.com/niharikaaa21/GoodSkin-Wellness-App/assets/102322171/ab63bf54-5f97-456f-94d6-69fb5a1771f8)
+
 Routine for Skin Type
 
 ![Recommended_Product_Working_Link](https://github.com/niharikaaa21/GoodSkin-Wellness-App/assets/102322171/179b3bf1-1376-4ee6-8ed4-dff33ef1cc11)
+
 Recommended Product Link Working
 
 ![Choose_Skin_Concern](https://github.com/niharikaaa21/GoodSkin-Wellness-App/assets/102322171/f6cac6e0-40a9-4944-9593-f02a89985479)
+
 Choose Skin Concern
 
 ![Routine_for_Skin_Concern](https://github.com/niharikaaa21/GoodSkin-Wellness-App/assets/102322171/bcb4d0a5-085a-4664-89ef-4666e0fbe5ea)
+
 Routine for Skin Concern
 
 ## Application Flow :
 
-- **Introduction to Home Page**:
+- **Introduction to Home Page** :
+  
   Users are welcomed to the home page, inviting them to explore personalized skincare routines.
 
-- **Skin Type Selection**:
+- **Skin Type Selection** :
+  
   Users choose their skin type (Normal, Dry, Oily, Combination) to receive tailored skincare recommendations.
 
-- **Display of Customized Skincare Routine**:
+- **Display of Customized Skincare Routine** :
+  
   AM and PM skincare routines are presented, featuring cleanser, serum, moisturizer, sunscreen, and night cream recommendations tailored to the selected skin type.
 
-- **Options After Routine Display**:
+- **Options After Routine Display** :
+  
   Users can address specific skin concerns (hyperpigmentation, acne, dry skin, textured skin) or explore routines for different skin types.
 
-- **Information on Selected Skin Concern**:
+- **Information on Selected Skin Concern** :
+  
   Detailed insights on the chosen skin concern are provided, along with serum product recommendations and integration tips into the existing skincare routine.
+  
 
 ## Technologies Used For Development :
 
