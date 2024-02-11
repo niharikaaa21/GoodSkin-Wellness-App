@@ -1,5 +1,7 @@
 # GoodSkin Wellness App
 
+![Icon](https://github.com/niharikaaa21/GoodSkin-Wellness-App/assets/102322171/9c26e895-2f69-42bd-8baf-63abc010fe80)
+
 ## Overview :
 This project aims to develop an Android app for customized skincare, prioritizing a user- friendly interface that caters to skincare enthusiasts. This app will not only design a skincare routine based on the skin concern of the user, but also provide the active ingredients to be used for solving the problem and give product recommendations based on their particular skin type and skin concerns.
 
